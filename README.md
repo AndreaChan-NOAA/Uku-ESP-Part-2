@@ -4,7 +4,7 @@
 
 | Potential Indicator | Data Years | Source | Notes |
 |---------------------|-----------------|-----------------|-----------------|
-| CPUE by season, gear | 1948−2018 | Nadon et al 2020 | CPUE included in assessment model |
+| CPUE by season, gear | 1948−2018 | Nadon et al 2020 | CPUE included in assessment model. CPUE time series split into two periods to account for changes in fishing effort data. Genereated CPUE indices for three dominant fishing gears used to catch uku. |
 | Effort (#vessels, #processors) | 2000−2018 | WPRFMC 2019, Hospital & Leong 2021 |  |
 | Bycatch by gear, region | 1948−2018 | \*\*Needs to be defined for application to the fishery. |  |
 | Ex-vessel value, revenue share | 2000−2018 | Hospital and Leong 2021 |  |
@@ -40,13 +40,15 @@
 | Natural Hazards | 2010–2018 | CSVI online |  |
 | Unemployment Rate | 1976–2021 | Hawai‘i DBEDT |  |
 | Uku-targeted Trips | \*\* Needs to be defined for application to the fishery | Nadon et al 2020 |  |
-| Commercial Landings | 1948–2018 | Nadon et al 2020 | Trends described in stock assessment |
-| Non-commercial Landings | 2013–2018 used in most recent stock asssessment | Nadon et al 2020 |  |
-| Total Landings | 1948–2018 | Nadon et al 2020 |  |
+| Commercial Landings | 1948–2018 | Nadon et al 2020 | Trends described in stock assessment. Commercial catch is self-reported. |
+| Non-commercial Landings | 2013–2018 used in most recent stock asssessment | Nadon et al 2020 | No license system for non-commercial. Recreational catch estimated from phone interviews and onsite fisher interviews. Data pulled from MRIP website. |
+| Total Landings | 1948–2018 | Nadon et al 2020 | Sum of commercial and recreational landings. |
 | Revenue per Trip | \*\* Needs to be defined for application to the fishery | State of Hawai‘i |  |
 | Gini Coefficient | \*\* Needs to be defined for application to the fishery | State of Hawai‘i |  |
 | CMLs Reporting Catch | \*\* Needs to be defined for application to the fishery | Hospital and Leong 2021 |  |
 | Spatial Distribution of Commercial Trips/Landings | \*\* Needs to be defined for application to the fishery |  |  |
+
+-   Leaning toward the NEesp2 package because it contains MRIP functions.
 
 **Milestone 2:** Host semi-structured meetings with uku stock assessment lead, uku MSE lead, managers, WP Council and SSC members to improve the utility of the product for the PI region. Adam could also discuss with the fishers if he has time.
 
@@ -55,3 +57,7 @@
 Helpful links
 
 [PI Uku ESP shared folder](https://drive.google.com/drive/folders/1jP3lYgaBWVqB5kbi_-_rjvJR5NHYCd2I)
+
+[AKesp package functions](https://kshotwell.github.io/AKesp/reference/index.html)
+
+[NEesp2 package functions](https://nefsc.github.io/READ-EDAB-NEesp2/reference/index.html)
