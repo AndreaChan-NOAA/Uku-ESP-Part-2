@@ -1,6 +1,6 @@
 # Uku-ESP-Part-2
 
-**Milestone 1:** Updated data for potential indicators identified in Ayers et al. 2022 are used as inputs for either ESP package (whichever is most appropriate) and a draft ESP report and report card are generated.
+**Milestone 1:** Updated data for potential indicators identified in Ayers et al. 2022 are used as inputs for NEesp2 package and a draft ESP report and snapshot are generated.
 
 | Potential Indicator | Data Years | Source | Notes | Category |
 |---------------|---------------|---------------|---------------|---------------|
