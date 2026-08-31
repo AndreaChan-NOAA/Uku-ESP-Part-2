@@ -3,7 +3,7 @@
 **Milestone 1:** Updated data for potential indicators identified in Ayers et al. 2022 are used as inputs for either ESP package (whichever is most appropriate) and a draft ESP report and report card are generated.
 
 | Potential Indicator | Data Years | Source | Notes | Category |
-|----|----|----|----|----|
+|---------------|---------------|---------------|---------------|---------------|
 | CPUE by season, gear | 1948−2018 | Nadon et al 2020; Nadon 2024 | CPUE included in assessment model. CPUE time series split into two periods to account for changes in fishing effort data. Generated CPUE indices for three dominant fishing gears used to catch uku (deep-sea handline, inshore handline, trolling). Trends are described with hypotheses in the discussion. |  |
 | Effort (#vessels, #processors) | 2000−2018 | WPRFMC 2019, Hospital & Leong 2021 | Starting in 2003, fishers were required to report the number of hours fished per record; prior to 2003 fishing effort was recorded as individual fishing days. |  |
 | Bycatch by gear, region | 1948−2018 | \*\*Needs to be defined for application to the fishery. |  |  |
@@ -48,9 +48,9 @@
 | CMLs Reporting Catch | \*\* Needs to be defined for application to the fishery | Hospital and Leong 2021 |  |  |
 | Spatial Distribution of Commercial Trips/Landings | \*\* Needs to be defined for application to the fishery |  | Area used as an explanatory variable for CPUE standardization. |  |
 
--   Leaning toward the NEesp2 package because it contains MRIP functions.
 -   Could update the targeting analysis with a portfolio analysis to understand how much uku contributes to commercial revenue per vessel. Carissa has one for king mackerel ESP.
 -   Categorize indicators by monitoring, contextual, or causal (requires stats)
+-   Shark depredation would be a good indicator to include. Need to request data from state. Fishers don't want to take uku trips because of depredation.
 
 **Milestone 2:** Host semi-structured meetings with uku stock assessment lead, uku MSE lead, managers, WP Council and SSC members to improve the utility of the product for the PI region. Adam could also discuss with the fishers if he has time, particularly if they could comment on trends in non-commercial fishing effort for uku.
 
