@@ -100,7 +100,6 @@
 -   Impact of changes to license fees
 -   Could include some outputs of significant factors influencing landings and commercial trips from HingLing's model
 -   Jamie indicator "good fishing days" inclusive of wind speed and past fishing effort
--   
 
 **Milestone 2:** Host semi-structured meetings with uku stock assessment lead, uku MSE lead, managers, WP Council and SSC members to improve the utility of the product for the PI region. Adam could also discuss with the fishers if he has time, particularly if they could comment on trends in non-commercial fishing effort for uku.
 
