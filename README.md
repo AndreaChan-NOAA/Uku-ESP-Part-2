@@ -94,12 +94,12 @@
 | Spatial Distribution of Commercial Trips/Landings | \*\* Needs to be defined for application to the fishery |                                                                                                                                  | Area used as an explanatory variable for CPUE standardization. In ESR.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |            |
 +---------------------------------------------------+---------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+
 
--   Could update the targeting analysis with a portfolio analysis to understand how much uku contributes to commercial revenue per vessel. Carissa has one for king mackerel ESP.
--   Categorize indicators by monitoring, contextual, or causal (requires stats)
--   Shark depredation would be a good indicator to include. Need to request data from state. Fishers don't want to take uku trips because of depredation. Adam working on a project to develop a historical indicator of shark depredation.
--   Impact of changes to license fees
--   Could include some outputs of significant factors influencing landings and commercial trips from HingLing's model
--   Jamie indicator "good fishing days" inclusive of wind speed and past fishing effort
+- Could update the targeting analysis with a portfolio analysis to understand how much uku contributes to commercial revenue per vessel. Carissa has one for king mackerel ESP.
+- Categorize indicators by monitoring, contextual, or causal (requires stats)
+- Shark depredation would be a good indicator to include. Need to request data from state. Fishers don't want to take uku trips because of depredation. Adam working on a project to develop a historical indicator of shark depredation.
+- Impact of changes to license fees
+- Could include some outputs of significant factors influencing landings and commercial trips from HingLing's model
+- Jamie indicator "good fishing days" inclusive of wind speed and past fishing effort
 
 **Milestone 2:** Host semi-structured meetings with uku stock assessment lead, uku MSE lead, managers, WP Council and SSC members to improve the utility of the product for the PI region. Adam could also discuss with the fishers if he has time, particularly if they could comment on trends in non-commercial fishing effort for uku.
 
