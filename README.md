@@ -6,7 +6,7 @@
 |----|----|----|----|----|
 | CPUE by season, gear | 1948−2018 | Nadon et al 2020; Nadon 2024 | CPUE included in assessment model. CPUE time series split into two periods to account for changes in fishing effort data. Generated CPUE indices for three dominant fishing gears used to catch uku (deep-sea handline, inshore handline, trolling). Trends are described with hypotheses in the discussion. In ESR. | Monitoring |
 | Effort (#vessels, #processors) | 2000−2018 | WPRFMC 2019, Hospital & Leong 2021 | Starting in 2003, fishers were required to report the number of hours fished per record; prior to 2003 fishing effort was recorded as individual fishing days. | Monitoring |
-| Bycatch by gear, region | 1948−2018 | Needs to be defined for application to the fishery. \| \| Monitoring \| |  |  |
+| Bycatch by gear, region | 1948−2018 | Needs to be defined for application to the fishery. |  | Monitoring |
 | Ex-vessel value, revenue share | 2000−2018 | Hospital and Leong 2021 |  | Monitoring |
 | Ex-vessel price per pound | 2000−2018 | Hospital and Leong 2021 |  | Monitoring |
 | Fish condition in the fishery | 1948−2018 | Nadon et al 2020 Kobe Plot | Uku stock is not currently overfished, and overfishing is not currently occurring. | Contextual |
